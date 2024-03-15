@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3ATM", "Task3ATM\Task3ATM.csproj", "{6E9F2D3F-0397-4815-9E6C-5E7B7E15A5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCars", "RaceCars\RaceCars.csproj", "{34BB1CE2-303A-47DA-9C64-2AD54C296368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9F2D3F-0397-4815-9E6C-5E7B7E15A5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9F2D3F-0397-4815-9E6C-5E7B7E15A5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9F2D3F-0397-4815-9E6C-5E7B7E15A5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9F2D3F-0397-4815-9E6C-5E7B7E15A5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BB1CE2-303A-47DA-9C64-2AD54C296368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BB1CE2-303A-47DA-9C64-2AD54C296368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BB1CE2-303A-47DA-9C64-2AD54C296368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BB1CE2-303A-47DA-9C64-2AD54C296368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {061D2CF2-1BBF-4808-8498-EDD7A3958D48}
+	EndGlobalSection
+EndGlobal
