@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models.Domain", "Models.Domain\Models.Domain.csproj", "{E0C8716C-0193-429B-BE9D-2AED72D93C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Products\Task2.csproj", "{281D26B9-DE5D-4664-9C50-518D1E11475B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task2\Task1.csproj", "{C92FE4F0-A98E-49A3-9C6E-9CDA0383690D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C8716C-0193-429B-BE9D-2AED72D93C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C8716C-0193-429B-BE9D-2AED72D93C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C8716C-0193-429B-BE9D-2AED72D93C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C8716C-0193-429B-BE9D-2AED72D93C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281D26B9-DE5D-4664-9C50-518D1E11475B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281D26B9-DE5D-4664-9C50-518D1E11475B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281D26B9-DE5D-4664-9C50-518D1E11475B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281D26B9-DE5D-4664-9C50-518D1E11475B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92FE4F0-A98E-49A3-9C6E-9CDA0383690D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92FE4F0-A98E-49A3-9C6E-9CDA0383690D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92FE4F0-A98E-49A3-9C6E-9CDA0383690D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92FE4F0-A98E-49A3-9C6E-9CDA0383690D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F047C274-D16D-452F-B270-14ECD99997DA}
+	EndGlobalSection
+EndGlobal
