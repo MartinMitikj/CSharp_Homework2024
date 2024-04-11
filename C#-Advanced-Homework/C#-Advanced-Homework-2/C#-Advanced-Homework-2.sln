@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet.Domain", "Pet.Domain\Pet.Domain.csproj", "{91416CA8-8028-479A-BFA0-EBA76F0095A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet.App", "Pet.App\Pet.App.csproj", "{53AE1819-7536-4A8A-ABBF-7F717BDF24CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91416CA8-8028-479A-BFA0-EBA76F0095A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91416CA8-8028-479A-BFA0-EBA76F0095A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91416CA8-8028-479A-BFA0-EBA76F0095A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91416CA8-8028-479A-BFA0-EBA76F0095A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AE1819-7536-4A8A-ABBF-7F717BDF24CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AE1819-7536-4A8A-ABBF-7F717BDF24CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AE1819-7536-4A8A-ABBF-7F717BDF24CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AE1819-7536-4A8A-ABBF-7F717BDF24CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F29AFB-6DE6-4F53-9725-5D185354C8F5}
+	EndGlobalSection
+EndGlobal
