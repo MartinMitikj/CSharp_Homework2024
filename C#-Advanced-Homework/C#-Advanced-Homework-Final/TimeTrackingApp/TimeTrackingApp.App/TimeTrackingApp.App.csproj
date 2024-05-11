@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TimeTrackingApp.DataBase\TimeTrackingApp.DataAccess.csproj" />
+    <ProjectReference Include="..\TimeTrackingApp.Domain\TimeTrackingApp.Domain.csproj" />
+    <ProjectReference Include="..\TimeTrackingApp.Helpers\TimeTrackingApp.Helpers.csproj" />
+    <ProjectReference Include="..\TimeTrackingApp.Service\TimeTrackingApp.Service.csproj" />
+  </ItemGroup>
+
+</Project>
